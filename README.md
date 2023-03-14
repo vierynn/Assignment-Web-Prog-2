@@ -1,3 +1,7 @@
+## Personal Information
+Name: Aurellia Vieryn
+NIM: 2440066626
+
 ## Profile Page
 
 A short description profile page for each of the group member. We can also see the scores of each person through the "Score" button.
