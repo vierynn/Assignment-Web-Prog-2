@@ -1,6 +1,6 @@
 ## Personal Information
-Name: Aurellia Vieryn
-NIM: 2440066626
+- Name: Aurellia Vieryn
+- NIM: 2440066626
 
 ## Profile Page
 
